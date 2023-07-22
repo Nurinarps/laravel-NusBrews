@@ -1,0 +1,29 @@
+.bg-secondary {
+  background-color: #4b4743 !important;
+}
+
+.copyright {
+  background-color: #1a252f;
+}
+
+.bg-primary {
+  background-color: #181818 !important;
+}
+
+nav{
+  font-weight: 400;
+}
+
+.img-card{
+  height: 18vw;
+  object-fit: cover;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.btn-product:hover {
+  background-color: rgb(3, 3, 3) !important;
+}
+
